@@ -1,6 +1,9 @@
 Hi, I’m bergman
+
 I’m interested in Web Development
+
 I’m currently learning FastAPI framework
+
 I’m looking to collaborate on real projects for more experience
 
 <!---
